@@ -1,4 +1,4 @@
-# college
+                                                               # MY COLLEGE
 Build a college page using Html,CSS ,Bootstrap and JavaScript
 
 ![Screenshot (1121)](https://user-images.githubusercontent.com/65597267/114764357-78ebe680-9d81-11eb-9029-9325ebd6e106.png)
