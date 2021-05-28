@@ -1,4 +1,4 @@
-                                                               # MY COLLEGE
+                                                               MY COLLEGE
 Build a college page using Html,CSS ,Bootstrap and JavaScript
 
 ![Screenshot (1121)](https://user-images.githubusercontent.com/65597267/114764357-78ebe680-9d81-11eb-9029-9325ebd6e106.png)
@@ -9,5 +9,5 @@ Build a college page using Html,CSS ,Bootstrap and JavaScript
 ![Screenshot (1127)](https://user-images.githubusercontent.com/65597267/114764441-9325c480-9d81-11eb-894a-9f140fe8d4d4.png)
 ![Screenshot (1128)](https://user-images.githubusercontent.com/65597267/114764456-9620b500-9d81-11eb-8d80-881d4ee0f425.png)
 
-https://user-images.githubusercontent.com/65597267/114764503-a33da400-9d81-11eb-9ef9-d725b147ca44.mp4
+
 
